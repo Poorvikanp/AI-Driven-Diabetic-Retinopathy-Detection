@@ -1,0 +1,24 @@
+Dataset Summary
+
+Project: AI-Driven Diabetic Retinopathy Detection
+
+Total Images: 3662
+
+Classes:
+1. Mild
+2. Moderate
+3. No_DR
+4. Proliferate_DR
+5. Severe
+
+Dataset Split:
+- Training Samples: 2931
+- Validation Samples: 731
+
+Image Size:
+224 x 224
+
+Batch Size:
+32
+
+The dataset contains retinal fundus images used for diabetic retinopathy stage classification using Deep Learning and Transfer Learning models.
