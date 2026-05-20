@@ -1,0 +1,12 @@
+Dataset Source
+
+The retinal fundus image dataset used in this project was utilized for educational and research purposes related to diabetic retinopathy detection and classification.
+
+Dataset preprocessing steps included:
+- Image resizing
+- Image normalization
+- Train-validation split
+- Data augmentation
+- Image rescaling
+
+The dataset was used to train CNN and EfficientNetB3 deep learning models for multi-class image classification.
