@@ -1,4 +1,4 @@
-# AI-Driven Diabetic Retinopathy Detection using Deep Learning
+# ⭐AI-Driven Diabetic Retinopathy Detection using Deep Learning⭐
 
 ## 📌 Project Overview
 
@@ -268,6 +268,6 @@ Through this project, I learned:
 
 ---
 
-## ⭐ Conclusion
+## ⭐⭐⭐ Conclusion ⭐⭐⭐
 
 This project demonstrates the practical application of Deep Learning in healthcare for automated diabetic retinopathy detection. The system successfully classifies retinal fundus images into multiple DR severity levels using CNN and Transfer Learning approaches while also incorporating Explainable AI techniques for better medical interpretation.
